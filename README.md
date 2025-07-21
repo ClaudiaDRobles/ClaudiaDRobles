@@ -2,13 +2,12 @@
 <p align="left">Soy estudiante de ingeniería de sistemas, apasionada por los datos, la tecnología y la innovación. Me encanta construir soluciones inteligentes a través del análisis de datos y la automatización. Siempre estoy en constantes aprendizaje y buscando mejorar en el mundo tech</p>
 
 ---
-### 🚀 Tecnologías que manejo
+🌟 **Lo que me mueve es conectar datos con decisiones reales**
 
-- 💾 **SQL Server**, **BigQuery**, **MySQL**
-- 📊 **Power BI**, **Looker Studio**, **Excel**
-- 🐍 **Python** (Pandas, Numpy, Matplotlib)
-- 💻 **JavaScript**, **R**
-- ☁️ **Google Cloud Platform (GCP)**
+✅ He recorrido dos mundos: la **contabilidad** y la **ingeniería de sistemas**, y eso me ha dado una visión completa para entender los datos con mirada analítica y sentido del negocio.
+📊 Me apasiona crear soluciones que no solo se ven bien en un dashboard, sino que generan impacto: recuperan ingresos, mejoran el flujo de caja y ayudan a tomar mejores decisiones.
+🔧 ¿Cómo lo hago? Dominando herramientas como **BigQuery**, **Power BI**, **Looker**, **SQL Server** y procesos **ETL** para transformar datos en respuestas.
+💡 Hoy mi enfoque está en **Business Intelligence y Data Engineering**, con un interés especial en proyectos que combinan tecnología y propósito.
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiadrobles&label=Profile%20views&color=0e75b6&style=flat" alt="claudiadrobles" /> </p>
