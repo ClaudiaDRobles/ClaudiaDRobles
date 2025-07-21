@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Claudia Robles</h1>
-<h3 align="center">I absolutely love diving into the world of data, tech, and innovation, especially here. I'm from Perú. I'm currently studying it in Systems Engineering, and honestly, I'm in love with what I do. I use some tools like SQL Server, Power BI, and JavaScript, python and R.Always looking to level up and bring some tech magic!</h3>
+<h1 align="center">👋, Hello Hello, Soy Claudia</h1>
+<h3 align="center">Soy estudiante de ingeniería de sistemas, apasionada por los datos, la tecnología y la innovación. Me encanta construir soluciones inteligentes a través del análisis de datos y la automatización. Siempre estoy en constantes aprendizaje y buscando mejorar en el mundo tech</h3>
 
+---
+### 🚀 Tecnologías que manejo
+
+- 💾 **SQL Server**, **BigQuery**, **MySQL**
+- 📊 **Power BI**, **Looker Studio**, **Excel**
+- 🐍 **Python** (Pandas, Numpy, Matplotlib)
+- 💻 **JavaScript**, **R**
+- ☁️ **Google Cloud Platform (GCP)**
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiadrobles&label=Profile%20views&color=0e75b6&style=flat" alt="claudiadrobles" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claudiadrobles" alt="claudiadrobles" /></a> </p>
