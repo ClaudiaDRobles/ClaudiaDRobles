@@ -6,13 +6,31 @@
 
 ✅ He recorrido dos mundos: la **contabilidad** y la **ingeniería de sistemas**, y eso me ha dado una visión completa para entender los datos con mirada analítica y sentido del negocio.
 
-📊 Me apasiona crear soluciones que no solo se ven bien en un dashboard, sino que generan impacto: recuperan ingresos, mejoran el flujo de caja y ayudan a tomar mejores decisiones.
+✅ Me apasiona crear soluciones que no solo se ven bien en un dashboard, sino que generan impacto: recuperan ingresos, mejoran el flujo de caja y ayudan a tomar mejores decisiones.
 
-🔧 ¿Cómo lo hago? Dominando herramientas como **BigQuery**, **Power BI**, **Looker**, **SQL Server** y procesos **ETL** para transformar datos en respuestas.
+✅ ¿Cómo lo hago? Dominando herramientas como **BigQuery**, **Power BI**, **Looker**, **SQL Server** y procesos **ETL** para transformar datos en respuestas.
 
-💡 Hoy mi enfoque está en **Business Intelligence y Data Engineering**, con un interés especial en proyectos que combinan tecnología y propósito.
+✅ Hoy mi enfoque está en **Business Intelligence y Data Engineering**, con un interés especial en proyectos que combinan tecnología y propósito.
 
 ---
+
+🚀 **De mi camino en tecnología y datos, destaco:**
+
+---
+
+🔍 Habilidad para **explorar, limpiar y transformar datos** garantizando calidad, estructura y propósito.  
+🧠 Experiencia con **consultas complejas en SQL**, modelado lógico y físico de bases de datos.  
+📊 Diseño de **dashboards interactivos** en **Power BI** y **Looker Studio**, enfocándome en indicadores que realmente importan.  
+🐍 Manejo de **Python** con librerías como **Pandas** y **Matplotlib** para análisis exploratorio y visualización.  
+⚙️ Implementación de procesos **ETL** para mover, integrar y preparar datos desde múltiples fuentes.  
+🎯 Capacidad para **resolver problemas reales** aplicando pensamiento analítico y visión estratégica.  
+📚 Formación previa en **Contabilidad**, lo que me permite alinear el análisis de datos con objetivos financieros concretos (como ingresos y flujo de caja).  
+🌱 En constante aprendizaje en **Google Cloud**, **Machine Learning** y automatización con herramientas modernas.
+
+---
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiadrobles&label=Profile%20views&color=0e75b6&style=flat" alt="claudiadrobles" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claudiadrobles" alt="claudiadrobles" /></a> </p>
