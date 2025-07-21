@@ -5,8 +5,11 @@
 🌟 **Lo que me mueve es conectar datos con decisiones reales**
 
 ✅ He recorrido dos mundos: la **contabilidad** y la **ingeniería de sistemas**, y eso me ha dado una visión completa para entender los datos con mirada analítica y sentido del negocio.
+
 📊 Me apasiona crear soluciones que no solo se ven bien en un dashboard, sino que generan impacto: recuperan ingresos, mejoran el flujo de caja y ayudan a tomar mejores decisiones.
+
 🔧 ¿Cómo lo hago? Dominando herramientas como **BigQuery**, **Power BI**, **Looker**, **SQL Server** y procesos **ETL** para transformar datos en respuestas.
+
 💡 Hoy mi enfoque está en **Business Intelligence y Data Engineering**, con un interés especial en proyectos que combinan tecnología y propósito.
 
 ---
