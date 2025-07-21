@@ -1,4 +1,4 @@
-<h1 align="left">👋, Hello Hello, Soy Claudia</h1>
+<h1 align="left">👋 ¡Hello Hello, soy Claudia!</h1>
 <p align="left">Soy estudiante de ingeniería de sistemas, apasionada por los datos, la tecnología y la innovación. Me encanta construir soluciones inteligentes a través del análisis de datos y la automatización. Siempre estoy en constantes aprendizaje y buscando mejorar en el mundo tech</p>
 
 ---
