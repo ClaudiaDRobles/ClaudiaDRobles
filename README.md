@@ -2,15 +2,18 @@
 <p align="left">Soy estudiante de ingeniería de sistemas, apasionada por los datos, la tecnología y la innovación. Me encanta construir soluciones inteligentes a través del análisis de datos y la automatización. Siempre estoy en constantes aprendizaje y buscando mejorar en el mundo tech</p>
 
 ---
-🌟 **Lo que me mueve es conectar datos con decisiones reales**
+🌟 **Detrás del código, hay una historia: la mía**
 
-✅ He recorrido dos mundos: la **contabilidad** y la **ingeniería de sistemas**, y eso me ha dado una visión completa para entender los datos con mirada analítica y sentido del negocio.
+🎓 Terminé mi primera carrera a los 21, pero dentro de mí había una inquietud: quería explorar un mundo distinto. En medio de esa búsqueda, impulsada por mi entorno lleno de ingenieros, decidí estudiar una segunda carrera: Ingeniería de Sistemas. Hoy, ya voy más de la mitad… ¡y no me arrepiento ni un segundo!
 
-✅ Me apasiona crear soluciones que no solo se ven bien en un dashboard, sino que generan impacto: recuperan ingresos, mejoran el flujo de caja y ayudan a tomar mejores decisiones.
+✈️ Durante este camino, hubo momentos en los que quise dejarlo todo —irme del país, viajar sin rumbo—, pero algo dentro de mí me hizo quedarme y mirar hacia adentro. 
 
-✅ ¿Cómo lo hago? Dominando herramientas como **BigQuery**, **Power BI**, **Looker**, **SQL Server** y procesos **ETL** para transformar datos en respuestas.
+🧘‍♀️ A través del mindfulness y otras prácticas, aprendí a silenciar la mente y escucharme más. Entendí que las respuestas no vienen de afuera, sino de adentro.
 
-✅ Hoy mi enfoque está en **Business Intelligence y Data Engineering**, con un interés especial en proyectos que combinan tecnología y propósito.
+❤️ Hoy, más allá de lo técnico, me siento orgullosa de algo más grande: **me gané a mí misma**. Y eso, para mí, vale más que cualquier título.
+
+🚀 Y ahora, con todo lo aprendido, estoy **lista para crear con propósito**.
+
 
 ---
 
