@@ -20,14 +20,14 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql&logoColor=336791&labelColor=000000" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=3776AB&labelColor=000000" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=E34F26&labelColor=000000" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=1572B6&labelColor=000000" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=F05032&labelColor=000000" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visualstudiocode&logoColor=007ACC&labelColor=000000" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jira-black?style=flat&logo=jira&logoColor=0052CC&labelColor=000000" alt="Jira"/>
 </p>
 
 ---
