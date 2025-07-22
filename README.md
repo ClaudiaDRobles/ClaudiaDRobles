@@ -6,9 +6,12 @@
 
 ✔️ Terminé mi primera carrera a los 21, pero dentro de mí había una inquietud: quería explorar un mundo distinto. En medio de esa búsqueda, impulsada por mi entorno lleno de ingenieros, decidí estudiar una segunda carrera: Ingeniería de Sistemas. Hoy, ya voy más de la mitad… ¡y no me arrepiento ni un segundo!
 
-✔️ Durante este camino, hubo momentos en los que quise dejarlo todo —irme del país, viajar sin rumbo—, pero algo dentro de mí me hizo quedarme y mirar hacia adentro. 
+✔️ Durante este camino, hubo momentos en los que quise dejarlo todo irme del país, pero algo dentro de mí me hizo quedarme y mirar hacia adentro. 
 
-✔️ A través del mindfulness y otras prácticas, aprendí a silenciar la mente y escucharme más. Entendí que las respuestas no vienen de afuera, sino de adentro.
+✔️ A través del mindfulness y otras prácticas, aprendí a silenciar la mente y escucharme más. Entendí que las respuestas no vienen de afuera, sino desde adentro.
+
+✔️ Ese aprendizaje me inspiró a crear contenido en @Notemood_pe, un espacio donde compartía mensajes de motivación y herramientas que a mí me ayudaron a seguir avanzando en mis proyectos, incluso cuando las dudas eran muchas.
+✨ Porque a veces, lo único que necesitamos es recordar que no estamos solos en el camino.
 
 ✔️ Hoy, más allá de lo técnico, me siento orgullosa de algo más grande: **me gané a mí misma**. Y eso, para mí, vale más que cualquier título.
 
