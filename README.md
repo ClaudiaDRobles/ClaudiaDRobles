@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=000000" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=F05032&labelColor=000000" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visualstudiocode&logoColor=007ACC&labelColor=000000" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS%20Code-black?style=flat&logo=visualstudiocode&logoColor=007ACC&labelColor=007ACC" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Jira-black?style=flat&logo=jira&logoColor=0052CC&labelColor=000000" alt="Jira"/>
 </p>
 
