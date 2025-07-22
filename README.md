@@ -12,7 +12,7 @@
 
 ❤️ Hoy, más allá de lo técnico, me siento orgullosa de algo más grande: **me gané a mí misma**. Y eso, para mí, vale más que cualquier título.
 
-🚀 Y ahora, con todo lo aprendido, estoy **lista para crear con propósito**.
+✔️  Y ahora, con todo lo aprendido, estoy **lista para crear con propósito**.
 
 
 ---
