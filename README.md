@@ -10,10 +10,9 @@
 🔍 Habilidad para **explorar, limpiar y transformar datos** garantizando calidad, estructura y propósito.  
 🧠 Experiencia con **consultas complejas en SQL**, modelado lógico y físico de bases de datos.  
 📊 Diseño de **dashboards interactivos** en **Power BI** y **Looker Studio**, enfocándome en indicadores que realmente importan.  
-🐍 Manejo de **Python** con librerías como **Pandas** y **Matplotlib** para análisis exploratorio y visualización.  
+🐍  Manejo de Python con librerías como Pandas, Matplotlib, Geopandas, Keras y herramientas de Web Scraping (como requests, BeautifulSoup y Selenium) para análisis exploratorio, visualización y   automatización de procesos. 
 ⚙️ Implementación de procesos **ETL** para mover, integrar y preparar datos desde múltiples fuentes.  
-🎯 Capacidad para **resolver problemas reales** aplicando pensamiento analítico y visión estratégica.  
-📚 Formación previa en **Contabilidad**, lo que me permite alinear el análisis de datos con objetivos financieros concretos (como ingresos y flujo de caja).  
+🎯 Capacidad para **resolver problemas reales** aplicando pensamiento analítico y visión estratégica.   
 🌱 En constante aprendizaje en **Google Cloud**, **Machine Learning** y automatización con herramientas modernas.
 
 ---
