@@ -4,13 +4,13 @@
 ---
 🌟 **Detrás del código, hay una historia: la mía**
 
-🎓 Terminé mi primera carrera a los 21, pero dentro de mí había una inquietud: quería explorar un mundo distinto. En medio de esa búsqueda, impulsada por mi entorno lleno de ingenieros, decidí estudiar una segunda carrera: Ingeniería de Sistemas. Hoy, ya voy más de la mitad… ¡y no me arrepiento ni un segundo!
+✔️ Terminé mi primera carrera a los 21, pero dentro de mí había una inquietud: quería explorar un mundo distinto. En medio de esa búsqueda, impulsada por mi entorno lleno de ingenieros, decidí estudiar una segunda carrera: Ingeniería de Sistemas. Hoy, ya voy más de la mitad… ¡y no me arrepiento ni un segundo!
 
-✈️ Durante este camino, hubo momentos en los que quise dejarlo todo —irme del país, viajar sin rumbo—, pero algo dentro de mí me hizo quedarme y mirar hacia adentro. 
+✔️ Durante este camino, hubo momentos en los que quise dejarlo todo —irme del país, viajar sin rumbo—, pero algo dentro de mí me hizo quedarme y mirar hacia adentro. 
 
-🧘‍♀️ A través del mindfulness y otras prácticas, aprendí a silenciar la mente y escucharme más. Entendí que las respuestas no vienen de afuera, sino de adentro.
+✔️ A través del mindfulness y otras prácticas, aprendí a silenciar la mente y escucharme más. Entendí que las respuestas no vienen de afuera, sino de adentro.
 
-❤️ Hoy, más allá de lo técnico, me siento orgullosa de algo más grande: **me gané a mí misma**. Y eso, para mí, vale más que cualquier título.
+✔️ Hoy, más allá de lo técnico, me siento orgullosa de algo más grande: **me gané a mí misma**. Y eso, para mí, vale más que cualquier título.
 
 ✔️  Y ahora, con todo lo aprendido, estoy **lista para crear con propósito**.
 
