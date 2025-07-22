@@ -19,6 +19,7 @@
 ### 🤓 Lenguajes y herramientas:
 
 <p align="left">
+    <img src="https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql&logoColor=336791&labelColor=000000" alt="SQL"/>
   <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=3776AB&labelColor=000000" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=E34F26&labelColor=000000" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=1572B6&labelColor=000000" alt="CSS3"/>
