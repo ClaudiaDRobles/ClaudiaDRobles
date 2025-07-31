@@ -41,7 +41,7 @@
 
 ---
 
-[![Coding_claudia Playlist](https://i.imgur.com/EaRXn7n.png)](https://open.spotify.com/playlist/1lgoNM60noPaWVCqwlj7q?si=DqL_F2slR9eXiwO5n6jeiA)
+[![Coding_claudia Playlist](https://i.imgur.com/EaRXn7n.png)](https://open.spotify.com/playlist/1IgoNM60noPaWVCqwilj7q?si=fYPK-QCwQAqY3hnObBj66w)
 
 
 
