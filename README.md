@@ -31,13 +31,6 @@
 </p>
 
 
----
-
-📬 **¿Quieres conectar?**
-
-[LinkedIn](https://www.linkedin.com/in/claudia-robles-data)  
-📧 Correo electrónico: cccroblesdp@gmail.com
-
 
 ---
 
@@ -46,6 +39,13 @@
 [![Coding_claudia 🎵](https://img.shields.io/badge/Escucha%20mi%20playlist%20en%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1IgoNM60noPaWVCqwilj7q?si=fYPK-QCwQAqY3hnObBj66w)
 
 🖤 Mi espacio sonoro para cuando quiero concentrarme, fluir y escribir buen código.
+
+---
+
+📬 **¿Quieres conectar?**
+
+[LinkedIn](https://www.linkedin.com/in/claudia-robles-data)  
+📧 Correo electrónico: cccroblesdp@gmail.com
 
 
 
