@@ -33,16 +33,10 @@
 
 ---
 
-### 📫 ¿Quieres conectar?
-
-[LinkedIn](https://www.linkedin.com/in/claudia-robles-data) | Correo electrónico: claudia.robles.dev@gmail.com
-
-
-
----
-
 📬 **¿Quieres conectar?**
 
 [LinkedIn](https://www.linkedin.com/in/claudia-robles-data)  
 📧 Correo electrónico: cccroblesdp@gmail.com
+
+
 
