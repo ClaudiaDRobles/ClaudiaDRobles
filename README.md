@@ -41,11 +41,8 @@
 
 ---
 
-### 🎶 ¿Con qué música programo?
+[![Coding_claudia Playlist](https://i.imgur.com/EaRXn7n.png)](https://open.spotify.com/playlist/1lgoNM60noPaWVCqwlj7q?si=DqL_F2slR9eXiwO5n6jeiA)
 
-[![Coding_claudia 🎵](https://img.shields.io/badge/Escucha%20mi%20playlist%20en%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1IgoNM60noPaWVCqwilj7q?si=VBA8kqiwRNaP4C-62YoJqQ)
-
-🖤 Mi espacio sonoro para cuando quiero concentrarme, fluir y escribir buen código.
 
 
 
