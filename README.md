@@ -15,6 +15,14 @@
 - 🎯 Capacidad para **resolver problemas reales** aplicando pensamiento analítico y visión estratégica.   
 - 🌱 En constante aprendizaje en **Google Cloud**, **Machine Learning** y automatización con herramientas modernas.
 
+
+---
+
+🚀 **Últimos proyectos:**
+
+- 🤖 [Asistente de Compras de Laptops](https://github.com/ClaudiaDRobles/asistente-ecommerce.git)
+
+  
 ---
 ### 🤓 Lenguajes y herramientas:
 
@@ -48,9 +56,7 @@
 📧 Correo electrónico: cccroblesdp@gmail.com
 
 
-🚀 **Últimos proyectos:**
 
-- 🤖 [Asistente de Compras de Laptops](https://github.com/ClaudiaDRobles/asistente-ecommerce.git)
 
 
 
