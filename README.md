@@ -18,7 +18,7 @@
 
 ---
 
-🚀 **Últimos proyectos:**
+👩‍💻 **Últimos proyectos:**
 
 - 🤖 [Asistente de e-commerce](https://github.com/ClaudiaDRobles/asistente-ecommerce.git)
 
