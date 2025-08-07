@@ -48,6 +48,12 @@
 📧 Correo electrónico: cccroblesdp@gmail.com
 
 
+🚀 **Últimos proyectos:**
+
+- 🤖 [Asistente de Compras de Laptops](https://github.com/tu_usuario/asistente-ecommerce)
+
+
+
 
 
 
