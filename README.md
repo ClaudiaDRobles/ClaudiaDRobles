@@ -50,7 +50,7 @@
 
 🚀 **Últimos proyectos:**
 
-- 🤖 [Asistente de Compras de Laptops](https://github.com/tu_usuario/asistente-ecommerce)
+- 🤖 [Asistente de Compras de Laptops](https://github.com/ClaudiaDRobles/asistente-ecommerce.git)
 
 
 
